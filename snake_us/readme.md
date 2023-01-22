@@ -2,6 +2,8 @@
 
 Simple snake game controlled by the ultrasonic sensor.
 
+![](snake-game.jpg)
+
 Based on:
 
 https://github.com/YahboomTechnology/Pico-Robot/blob/main/07.Code/2.Advanced%20course/
